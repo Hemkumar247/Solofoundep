@@ -1,5 +1,5 @@
 spec_version: "0.1.0"
-name: solofoundер
+name: Solofoundep
 version: 1.0.0
 description: >
   A full AI development team in a single git repo. SoloFounder gives solo developers
@@ -57,7 +57,7 @@ memory:
   enabled: true
   path: ./memory/runtime
   auto_commit: true
-  branch_prefix: "solofoundер/session"
+  branch_prefix: "Solofoundep/session"
 
 knowledge:
   path: ./knowledge

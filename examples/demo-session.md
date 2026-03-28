@@ -8,8 +8,8 @@ This shows a complete feature development session using SoloFounder with gitclaw
 
 ```bash
 # Clone the agent
-git clone https://github.com/YOUR_HANDLE/solofoundер
-cd solofoundер
+git clone https://github.com/Hemkumar247/Solofoundep
+cd Solofoundep
 
 # Install gitclaw runtime
 npm install -g gitclaw

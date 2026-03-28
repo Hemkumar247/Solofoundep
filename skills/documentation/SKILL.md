@@ -31,7 +31,7 @@ npx expo start
 [Link to knowledge/codebase-map.md or a brief summary]
 
 ## Agent Team
-This project is built with [SoloFounder](https://github.com/your-handle/solofoundер).
+This project is built with [SoloFounder](https://github.com/Hemkumar247/Solofoundep).
 See `agent.yaml` for the full team configuration.
 
 ## Contributing

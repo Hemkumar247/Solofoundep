@@ -6,7 +6,7 @@
 
 [![gitagent spec](https://img.shields.io/badge/spec-gitagent%20v0.1.0-blue)](https://github.com/open-gitagent/gitagent)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![CI](https://github.com/Hemkumar247/solofoundер/actions/workflows/ci.yml/badge.svg)](https://github.com/Hemkumar247/solofoundер/actions)
+[![CI](https://github.com/Hemkumar247/Solofoundep/actions/workflows/ci.yml/badge.svg)](https://github.com/Hemkumar247/Solofoundep/actions)
 [![Works with gitclaw](https://img.shields.io/badge/runtime-gitclaw-brightgreen)](https://github.com/open-gitagent/gitclaw)
 [![Works with clawless](https://img.shields.io/badge/browser-clawless-purple)](https://github.com/open-gitagent/clawless)
 
@@ -55,8 +55,8 @@ The root **SoloFounder** agent reads your request, delegates to the right team m
 
 ```bash
 # Clone the agent
-git clone https://github.com/Hemkumar247/solofoundер
-cd solofoundер
+git clone https://github.com/Hemkumar247/Solofoundep
+cd Solofoundep
 
 # Install the gitclaw runtime
 npm install -g gitclaw
@@ -144,7 +144,7 @@ Run `gitagent validate --compliance` to catch SOD violations before deployment.
 ## Repo Structure
 
 ```
-solofoundер/
+Solofoundep/
 │
 │   # ── Core Identity ──────────────────────────────────────────────
 ├── agent.yaml              # Manifest — model, skills, tools, SOD compliance

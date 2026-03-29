@@ -96,19 +96,19 @@ You: "Add a leaderboard screen"
 ┌─────────────────────────────────────────────────────────────────┐
 │                     feature-dev workflow                        │
 │                                                                 │
-│  1. Architect  ──► Design note in memory/runtime/              │
+│  1. Architect  ──► Design note in memory/runtime/               │
 │       │                                                         │
 │  ⏸️  Human approves design                                      │
 │       │                                                         │
-│  2. Coder  ──► Implements ──► tsc ──► ESLint ──► Opens PR      │
+│  2. Coder  ──► Implements ──► tsc ──► ESLint ──► Opens PR       │
 │       │                                                         │
-│  3. Reviewer  ──► Structured review ──► APPROVED               │
+│  3. Reviewer  ──► Structured review ──► APPROVED                │
 │  (cannot be the Coder)                                          │
 │       │                                                         │
-│  4. QA Engineer  ──► Tests ──► QA report ──► QA_PASS           │
+│  4. QA Engineer  ──► Tests ──► QA report ──► QA_PASS            │
 │  (cannot be the Coder)                                          │
 │       │                                                         │
-│  ⏸️  Human merges PR                                            │
+│  ⏸️  Human merges PR                                           │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
